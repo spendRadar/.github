@@ -1,5 +1,11 @@
 <div align="center">
 
+<img
+    src="https://raw.githubusercontent.com/spendRadar/.github/main/profile/assets/spendradar-logo.svg"
+    alt="SpendRadar Logo"
+    width="120"
+  />
+
 # 💸 SpendRadar
 
 ### Smarter Spending, Better Planning.
